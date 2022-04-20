@@ -42,7 +42,7 @@
 			<Add library="gdi32" />
 			<Add directory="C:/Program Files/CodeBlocks/MinGW/lib" />
 		</Linker>
-		<Unit filename="main.c">
+		<Unit filename="ray.c">
 			<Option compilerVar="CC" />
 			<Option target="Debug" />
 		</Unit>
