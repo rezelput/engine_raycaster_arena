@@ -22,3 +22,12 @@
 	<GL/glu.h>
 	<stdlib.h>
 
+1650449963 source:c:\users\sofiy\documents\projectfromcodeblock\test_glut\engine_raycaster_arena\test\main.c
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
